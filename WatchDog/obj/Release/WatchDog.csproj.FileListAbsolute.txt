@@ -1,0 +1,65 @@
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\bin\Release\WatchDog.exe.config
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\bin\Release\WatchDog.exe
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\bin\Release\WatchDog.pdb
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.dll
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Imaging.dll
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Imaging.Formats.dll
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Imaging.IPPrototyper.dll
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Math.dll
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Video.DirectShow.dll
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Video.dll
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Video.FFMPEG.dll
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Video.Kinect.dll
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Video.VFW.dll
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Video.Ximea.dll
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Vision.dll
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.xml
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Imaging.xml
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Imaging.Formats.xml
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Math.xml
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Video.xml
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Video.DirectShow.xml
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Video.FFMPEG.xml
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Video.Kinect.xml
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Video.VFW.xml
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Video.Ximea.xml
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Vision.xml
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\obj\Release\WatchDog.Form1.resources
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\obj\Release\WatchDog.Properties.Resources.resources
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\obj\Release\WatchDog.csproj.GenerateResource.Cache
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\obj\Release\WatchDog.exe
+e:\berkin belgeler\visual studio 2015\Projects\WatchDog\WatchDog\obj\Release\WatchDog.pdb
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\bin\Release\WatchDog.exe.config
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\obj\Release\WatchDog.exe
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\obj\Release\WatchDog.pdb
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\bin\Release\WatchDog.exe
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\bin\Release\WatchDog.pdb
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.dll
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Imaging.dll
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Imaging.Formats.dll
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Imaging.IPPrototyper.dll
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Math.dll
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Video.DirectShow.dll
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Video.dll
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Video.FFMPEG.dll
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Video.Kinect.dll
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Video.VFW.dll
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Video.Ximea.dll
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Vision.dll
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.xml
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Imaging.xml
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Imaging.Formats.xml
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Math.xml
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Video.xml
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Video.DirectShow.xml
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Video.FFMPEG.xml
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Video.Kinect.xml
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Video.VFW.xml
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Video.Ximea.xml
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\bin\Release\AForge.Vision.xml
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\obj\Release\WatchDog.Form1.resources
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\obj\Release\WatchDog.Properties.Resources.resources
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\obj\Release\WatchDog.csproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\obj\Release\WatchDog.csprojAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\obj\Release\WatchDog.csproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio 2015\Projects\WatchDog\WatchDog\obj\Release\WatchDog.csproj.CopyComplete
